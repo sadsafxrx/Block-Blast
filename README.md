@@ -6,7 +6,7 @@
 
 Аналог мобильной игры Block Blast для нативного запуска на вашем ПК или ноутбуке
 
-![Бейджи](https://img.shields.io/badge/Status-Frozen-cyan) 
+![Бейджи](https://img.shields.io/badge/Status-Frozen-cyan) <!-- поменять, когда работы возобновится -->
 ![Версия](https://img.shields.io/badge/Версия-1.1.0-blue)
 
 ---
